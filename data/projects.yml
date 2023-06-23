@@ -1,17 +1,17 @@
-- name: Longest Word Game
-  description: Decent description of the app
+- name: SmartVacay
+  description: A graduation project done on a team of 4.  It is a travel-app that aims to make trip-planning easier.  With just the click of a button, an itinerary will be generated for you.
   image: projects/placeholder.png
-  url: https://www.google.com
+  url: https://www.smartvacay.app/
 
-- name: Movie Watchlist
-  description: Decent description of the app
+- name: Assassins
+  description: A marketplace app inspired by the Airbnb model with a fun-twist (totally fictional)
   image: projects/placeholder.png
-  url: https://www.google.com
+  url: https://hire-assassin.herokuapp.com
 
-- name: Airbnb
-  description: Decent description of the app
+- name: WatchList
+  description: Here you will find a collection of movies that I like.  You can also create a new list and upload a picture of your choice.
   image: projects/placeholder.png
-  url: https://www.google.com
+  url: https://jshizuki-watch-list.herokuapp.com/
 
 - name: Final project
   description: Decent description of the app
