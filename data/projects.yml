@@ -17,3 +17,13 @@
   description: Decent description of the app
   image: projects/placeholder.png
   url: https://jshizuki.github.io/workshop/
+
+- name: Stupid Coaching
+  description: A simple rails app that returns comments made by the coach based on user's input.
+  image: projects/placeholder.png
+  url: https://rails-stupid-coaching-revisit-a9732b8c19bf.herokuapp.com/
+
+- name: Longest Word Game
+  description: See if you can find the longest word and get a score from that!
+  image: projects/placeholder.png
+  url: https://jshizuki-longest-word-371b8ebe8f7b.herokuapp.com/
