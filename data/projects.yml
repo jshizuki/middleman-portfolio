@@ -27,3 +27,8 @@
   description: See if you can find the longest word and get a score from that!
   image: projects/placeholder.png
   url: https://jshizuki-longest-word-371b8ebe8f7b.herokuapp.com/
+
+- name: Task Manager
+  description: A full review of Ruby on Rails basics.
+  image: projects/placeholder.png
+  url: https://rails-task-manager-revisit-228be745dbc4.herokuapp.com/
