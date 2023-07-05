@@ -1,9 +1,10 @@
 .banner {
   height: 100vh;
+  position: relative;
 }
 
 .background-layer {
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 0;
   width: 100%;
@@ -12,4 +13,11 @@
   background-image: url("../images/banner.jpg");
   background-size: cover;
   filter: grayscale(70%);
+  z-index: -1;
+}
+
+.content {
+  position: relative;
+  z-index: 1;
+  margin-top: 250px;
 }
