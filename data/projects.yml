@@ -14,7 +14,7 @@
   url: https://jshizuki-watch-list.herokuapp.com/
 
 - name: React Giphy
-  description: Decent description of the app
+  description: My first attempt on React to search for gifs.
   image: projects/react_giphy.png
   url: https://jshizuki.github.io/workshop/
 
