@@ -7,7 +7,7 @@
 .card-product {
   overflow: hidden;
   height: 120px;
-  background: white;
+  background: seashell;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
   display: flex;
   align-items: center;
@@ -17,6 +17,7 @@
   height: 100%;
   width: 160px;
   object-fit: cover;
+  padding-left: 10px;
 }
 
 .card-product h2 {

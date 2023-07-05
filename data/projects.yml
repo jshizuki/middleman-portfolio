@@ -10,25 +10,25 @@
 
 - name: WatchList
   description: Here you will find a collection of movies that I like.  You can also create a new list and upload a picture of your choice.
-  image: projects/placeholder.png
+  image: projects/watch_list.png
   url: https://jshizuki-watch-list.herokuapp.com/
 
 - name: React Giphy
   description: Decent description of the app
-  image: projects/placeholder.png
+  image: projects/react_giphy.png
   url: https://jshizuki.github.io/workshop/
 
 - name: Stupid Coaching
   description: A simple rails app that returns comments made by the coach based on user's input.
-  image: projects/placeholder.png
+  image: projects/coach.png
   url: https://rails-stupid-coaching-revisit-a9732b8c19bf.herokuapp.com/
 
 - name: Longest Word Game
   description: See if you can find the longest word and get a score from that!
-  image: projects/placeholder.png
+  image: projects/word_game.png
   url: https://jshizuki-longest-word-371b8ebe8f7b.herokuapp.com/
 
 - name: Task Manager
   description: A full review of Ruby on Rails basics.
-  image: projects/placeholder.png
+  image: projects/task_manager.png
   url: https://rails-task-manager-revisit-228be745dbc4.herokuapp.com/
