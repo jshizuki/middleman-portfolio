@@ -1,14 +1,14 @@
 - name: SmartVacay
   description: A graduation project done on a team of 4.  It is a travel-app that aims to make trip-planning easier.  With just the click of a button, an itinerary will be generated for you.
-  image: projects/placeholder.png
+  image: projects/smart_vacay.png
   url: https://www.smartvacay.app/
 
-- name: Assassins
+- name: Death Dealers
   description: A marketplace app inspired by the Airbnb model with a fun-twist (totally fictional)
-  image: projects/placeholder.png
+  image: projects/death_dealers.png
   url: https://hire-assassin.herokuapp.com
 
-- name: WatchList
+- name: Movie Watch List
   description: Here you will find a collection of movies that I like.  You can also create a new list and upload a picture of your choice.
   image: projects/watch_list.png
   url: https://jshizuki-watch-list.herokuapp.com/
