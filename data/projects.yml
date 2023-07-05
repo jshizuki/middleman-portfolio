@@ -29,6 +29,6 @@
   url: https://jshizuki-longest-word-371b8ebe8f7b.herokuapp.com/
 
 - name: Task Manager
-  description: A full review of Ruby on Rails basics.
+  description: A full review of Ruby on Rails basics - CRUD actions.
   image: projects/task_manager.png
   url: https://rails-task-manager-revisit-228be745dbc4.herokuapp.com/
