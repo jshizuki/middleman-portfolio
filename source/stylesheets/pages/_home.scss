@@ -1,1 +1,22 @@
 // Specific CSS for your home-page
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@500&display=swap');
+
+body {
+  font-family: 'Source Sans 3', sans-serif;
+}
+
+.title-main {
+  z-index: 1;
+  font-family: 'Source Sans 3', sans-serif;
+  opacity: 0.6;
+}
+
+#about {
+  background-color: seashell;
+  padding: 20px;
+  z-index: 1;
+  width: 50%;
+  opacity: 0.8;
+  border-radius: 10px;
+  box-shadow: 2px 2px 10px lightgray;
+}
