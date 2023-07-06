@@ -26,3 +26,9 @@ body {
 i {
   font-size: xx-large;
 }
+
+.content {
+  position: relative;
+  z-index: 1;
+  margin-top: 250px;
+}
