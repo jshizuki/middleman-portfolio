@@ -13,7 +13,7 @@ body {
   opacity: 0.8;
 }
 
-#about {
+.about {
   background-color: seashell;
   padding: 20px;
   z-index: 1;
@@ -23,6 +23,6 @@ body {
   box-shadow: 2px 2px 10px lightgray;
 }
 
-// i {
-//   font-size: xx-large;
-// }
+i {
+  font-size: xx-large;
+}
