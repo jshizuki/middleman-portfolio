@@ -2,33 +2,40 @@
   description: A graduation project done on a team of 4.  It is a travel-app that aims to make trip-planning easier.  With just the click of a button, an itinerary will be generated for you.
   image: projects/smart_vacay.png
   url: https://www.smartvacay.app/
+  github: https://github.com/Donald-Chow/smartvacay
 
 - name: Death Dealers
   description: A marketplace app inspired by the Airbnb model with a fun-twist (totally fictional)
   image: projects/death_dealers.png
   url: https://hire-assassin.herokuapp.com
+  github: https://github.com/tyhyun309/hire_assassin
 
 - name: Movie Watch List
   description: Here you will find a collection of movies that I like.  You can also create a new list and upload a picture of your choice.
   image: projects/watch_list.png
   url: https://jshizuki-watch-list.herokuapp.com/
+  github: https://github.com/jshizuki/rails-watch-list
 
 - name: React Giphy
   description: My first attempt on React to search for gifs.
   image: projects/react_giphy.png
   url: https://jshizuki.github.io/workshop/
+  github: https://github.com/jshizuki/workshop
 
 - name: Stupid Coaching
   description: A simple rails app that returns comments made by the coach based on user's input.
   image: projects/coach.png
   url: https://rails-stupid-coaching-revisit-a9732b8c19bf.herokuapp.com/
+  github: https://github.com/jshizuki/rails-stupid-coaching-revisit
 
 - name: Longest Word Game
   description: See if you can find the longest word and get a score from that!
   image: projects/word_game.png
   url: https://jshizuki-longest-word-371b8ebe8f7b.herokuapp.com/
+  github: https://github.com/jshizuki/rails-longest-word-game-revisit
 
 - name: Task Manager
   description: A full review of Ruby on Rails basics - CRUD actions.
   image: projects/task_manager.png
   url: https://rails-task-manager-revisit-228be745dbc4.herokuapp.com/
+  github: https://github.com/jshizuki/rails-task-manager-revisit
