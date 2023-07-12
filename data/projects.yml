@@ -23,7 +23,7 @@
   github: https://github.com/jshizuki/workshop
 
 - name: Stupid Coaching
-  description: A simple rails app that returns comments made by the coach based on user's input.
+  description: A simple rails app with AJAX that returns comments made by the coach based on user's input.
   image: projects/coach.png
   url: https://rails-stupid-coaching-revisit-a9732b8c19bf.herokuapp.com/
   github: https://github.com/jshizuki/rails-stupid-coaching-revisit
