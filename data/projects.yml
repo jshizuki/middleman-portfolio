@@ -39,3 +39,9 @@
   image: projects/task_manager.png
   url: https://rails-task-manager-revisit-228be745dbc4.herokuapp.com/
   github: https://github.com/jshizuki/rails-task-manager-revisit
+
+- name: The Mastermind of Matz
+  description: With the help of the faker gem on top of CRUD actions, you'll find a collection of inspiring quotes by the creator of Ruby - Yukihiro Matsumoto.
+  image: projects/blog.png
+  url: https://jshizuki-rails-blog-a69a87228904.herokuapp.com/
+  github: https://github.com/jshizuki/rails-blog
