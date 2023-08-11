@@ -1,5 +1,11 @@
-- name: SmartVacay
-  description: A graduation project done on a team of 4.  It is a travel-app that aims to make trip-planning easier.  With just the click of a button, an itinerary will be generated for you.
+- name: The Mastermind of Matz
+  description: I was thinking about my next project to review the Rails framework and this came up - "What would a blog by Matz look like?"  <br><br>With the help of the <b>faker gem</b> on top of CRUD actions, you'll find a collection of inspiring quotes by the creator of Ruby - Yukihiro Matsumoto.
+  image: projects/blog.png
+  url: https://jshizuki-rails-blog-a69a87228904.herokuapp.com/
+  github: https://github.com/jshizuki/rails-blog
+
+- name: Smart Vacay
+  description: I'm very proud to present to you that as a team of 4, we (Le Wagon batchmates) created a travel-app that aims to make trip-planning easier.  <br><br>With just the click of a button, an itinerary will be generated for you so you won't have to worry about the time-consuming, tedious process of planning what to do before a trip.
   image: projects/smart_vacay.png
   url: https://www.smartvacay.app/
   github: https://github.com/Donald-Chow/smartvacay
@@ -23,25 +29,19 @@
   github: https://github.com/jshizuki/workshop
 
 - name: Stupid Coaching
-  description: A simple rails app with a study focus on AJAX that returns comments made by the coach based on user's input.
+  description: My study focus was on <b>AJAX</b> this time.  Here's a simple rails app that returns comments made by the coach based on user's input.  Comments will show without having to reload the page.
   image: projects/coach.png
   url: https://rails-stupid-coaching-revisit-a9732b8c19bf.herokuapp.com/
   github: https://github.com/jshizuki/rails-stupid-coaching-revisit
 
-- name: Longest Word Game
-  description: See if you can find the longest word and get a score from that!
+- name: Longest Word Game (Ongoing project)
+  description: Let's see if you can find the longest word and get a score from that!  <br><br>This was my first-ever study on Rails during the Bootscamp.  Although this starts out as a very simple app, I intend to make use of <b>Sortable.js</b> for interactivity - so the tiles become movable.  Will I be able to make it?
   image: projects/word_game.png
   url: https://jshizuki-longest-word-371b8ebe8f7b.herokuapp.com/
   github: https://github.com/jshizuki/rails-longest-word-game-revisit
 
 - name: Task Manager
-  description: A full review of Ruby on Rails basics - CRUD actions, with front-end done only by Bootstrap.
+  description: At the very beginning of reviewing Ruby on Rails' basics - the 7 CRUD actions, I created a simple task manager with front-end done only by Bootstrap classes.
   image: projects/task_manager.png
   url: https://rails-task-manager-revisit-228be745dbc4.herokuapp.com/
   github: https://github.com/jshizuki/rails-task-manager-revisit
-
-- name: The Mastermind of Matz
-  description: With the help of the faker gem on top of CRUD actions, you'll find a collection of inspiring quotes by the creator of Ruby - Yukihiro Matsumoto.
-  image: projects/blog.png
-  url: https://jshizuki-rails-blog-a69a87228904.herokuapp.com/
-  github: https://github.com/jshizuki/rails-blog
