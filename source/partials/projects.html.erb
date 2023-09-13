@@ -3,20 +3,17 @@
     <div class="container">
       <div id="projects">
         <h1 class="title-main m-3 text-center">Technical projects</h1>
+        <div class="text-center pb-4">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/w70wtkP1AUs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
         <div class="row row-cols-2 g-3">
           <% data.projects.each do |project| %>
             <div class="col d-flex justify-content-center">
               <div class="card p-3 border-2 rounded-4 border-light-subtle" style="width: 30rem;">
                 <%= image_tag project.image, alt: "project image" %>
                 <div class="card-body">
-                  <h5 class="card-title text-center fs-3 fw-bolder"><%= project.name %></h5>
-                  <p class="card-text"><%= project.description %></p>
-                  <% link_to project.url, class: 'external-link z-index-2', target: '_blank' do %>
-                    <i id="social" class="fas fa-external-link-alt"></i>
-                  <% end %>
-                  <% link_to project.github, class: 'external-link', target: '_blank' do %>
-                    <i id="social" class="fa-brands fa-github"></i>
-                  <% end %>
+                  <h5 class="card-title text-center fs-3 fw-bolder view-details"><%= link_to project.name, project.url, class: "link-dark text-decoration-none", target: "blank" %></h5>
+                  <p class="card-text hide"><%= project.description %></p>
                 </div>
               </div>
             </div>

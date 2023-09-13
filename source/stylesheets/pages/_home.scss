@@ -61,3 +61,11 @@ p {
 h1 {
   font-size: xx-large;
 }
+
+.view-details:hover + .hide {
+  display: block;
+}
+
+.hide {
+  display: none;
+}

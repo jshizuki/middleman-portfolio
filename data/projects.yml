@@ -41,7 +41,7 @@
   github: https://github.com/jshizuki/rails-longest-word-game-revisit
 
 - name: Task Manager
-  description: At the very beginning of reviewing Ruby on Rails' basics - the 7 CRUD actions, I created a simple task manager with front-end done only by Bootstrap classes.
+  description: At the very beginning of reviewing Ruby on Rails' basics - the 7 CRUD actions, I created a simple task manager with front-end done only by <b>Bootstrap</b> classes.
   image: projects/task_manager.png
   url: https://rails-task-manager-revisit-228be745dbc4.herokuapp.com/
   github: https://github.com/jshizuki/rails-task-manager-revisit
