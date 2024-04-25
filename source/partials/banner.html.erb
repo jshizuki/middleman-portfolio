@@ -2,10 +2,11 @@
   <div class="col-12 d-flex flex-column justify-content-center align-items-center h-100">
     <%= image_tag 'profile.jpg', alt: "profile photo", class: 'avatar' %>
     <h1 class="title-main m-3 text-center">About Joyce</h1>
-    <div class="card p-3 border-2 rounded-4 border-light-subtle m-auto text-center" style="width: 50rem;">
-      <p class="p-2">Originally from Hong Kong, I've been based in Tokyo since 2010.  I am a full-stack web developer with a focus on <b>Ruby</b> and the <b>Ruby on Rails</b> framework.
+    <div id="card-intro" class="card p-3 border-2 rounded-4 border-light-subtle m-auto text-center" style="width: 50rem;">
+      <p id="intro" class="p-2">Originally from Hong Kong, I've been based in Tokyo since 2010.  I am a full-stack web developer with a focus on <b>Ruby</b> and the <b>Ruby on Rails</b> framework.
       <br><br>I also have JLPT N1, and am now a permanent resident of Japan.
       <br><br>Currently, I'm managing a stock management/ invoice-creating web application for a Hong Kong-based ceramist, while spending my time working on <b>React</b>.</p>
+      <p id="hover-to-japanese" class="text-end fs-6"><b>日本語はここにホバーしてね！</b></p>
       <%= partial 'partials/social' %>
     </div>
   </div>
