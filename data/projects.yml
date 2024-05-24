@@ -1,3 +1,9 @@
+- name: Data representation
+  description: A study of data representation using charts with React
+  image: projects/susten.png
+  url: https://js_react_susten.surge.sh
+  github: https://github.com/jshizuki/susten
+
 - name: The Mastermind of Matz
   description: I was thinking about my next project to review the Rails framework and this came up - "What would a blog by Matz look like?"  <br><br>With the help of the <b>faker gem</b> on top of CRUD actions, you'll find a collection of inspiring quotes by the creator of Ruby - Yukihiro Matsumoto.
   image: projects/blog.png
