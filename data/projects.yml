@@ -1,3 +1,9 @@
+- name: Accordian
+  description: A study of accordian display with React
+  image: projects/accordian.png
+  url: https://jshizuki.github.io/25_react_projects/#/accordian
+  github: https://github.com/jshizuki/25_react_projects/tree/master/accordian
+
 - name: Data representation
   description: A study of data representation using charts with React
   image: projects/susten.png
